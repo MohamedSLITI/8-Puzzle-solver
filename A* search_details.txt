@@ -1,0 +1,4 @@
+Search technique = A* 
+Problem solved in 0.0010523796081542969seconds 
+path_cost 4
+nodes_expanded 13

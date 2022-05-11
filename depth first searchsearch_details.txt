@@ -1,0 +1,5 @@
+Search technique = depth first search
+Problem solved in 0.6670708656311035seconds
+path_cost : 5
+nodes_expanded :5586
+action = [ Up, Up, Left, Down, Right, ]

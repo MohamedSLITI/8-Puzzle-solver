@@ -1,0 +1,5 @@
+Search technique = breadth first search
+Problem solved in 0.004411935806274414seconds
+path_cost : 5
+nodes_expanded :34
+action = [ Up, Up, Left, Down, Right, ]
